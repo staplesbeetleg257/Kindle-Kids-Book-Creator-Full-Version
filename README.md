@@ -247,4 +247,4 @@ This repository serves as the official landing page for Kindle Kids’ Book Crea
 **Get the most recent version of Kindle Kids’ Book Creator today!**
 
 ---
-**Last updated:** 2026-11-01 20:13:44 UTC
+**Last updated:** 2026-11-02 00:17:45 UTC
